@@ -5,7 +5,7 @@ This version utilizes of derivatives and Euler's Method to generate the curve.
 
 A few Current Issues:
 -
--A complete graph can only be generated if both the curve and its derivative are continuous over the over the given domain and range. Various glitches are seen around points for which the derivative is unbounded or the function does not exist.
+-A complete graph can only be generated if both the curve and its derivative are continuous over the given domain and range. Various glitches are seen around points for which the derivative is unbounded or the function does not exist.
 
 -It is sometimes very expensive to look for a initial point to execute Euler's Method along the curve.
 
